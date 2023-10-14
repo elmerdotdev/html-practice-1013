@@ -1,2 +1,3 @@
-# html-practice-1013
-For E-0923
+# HTML Practice
+
+For E-0923 class code-along
